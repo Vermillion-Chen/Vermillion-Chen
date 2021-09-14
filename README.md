@@ -1,8 +1,9 @@
 # @Vermillion-Chen
 - 👀 I’m a second-year McGill University student styding Physiology with a minor in Computer Science. 
-- 🌱 I’m currently learning Java, some Python libraries, and practicing my HTML and CSS
+- 🌱 I’m currently learning Java and some Python libraries 
+- 🔩 I'm currently practicing my HTML and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on my LinkedIn profile
 
 <!---
 Vermillion-Chen/Vermillion-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
