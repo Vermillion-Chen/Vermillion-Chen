@@ -1,6 +1,6 @@
 ## @Vermillion-Chen
 ---
-### I'm a Physiology and Computer Science major at McGill University
+### I'm a Physiology and Computer Science major at McGill University, working part-time in data science
 - 👀 I’m a second-year McGill University student styding Physiology with a minor in Computer Science. 
 - 🌱 I’m currently learning JavaScript
 - 🔩 I'm currently working on redoing my website and practicing SQL
