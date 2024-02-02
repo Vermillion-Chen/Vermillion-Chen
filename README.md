@@ -1,9 +1,9 @@
 ## @Vermillion-Chen
 ---
-### I'm a Physiology and Computer Science major at McGill University, working part-time in data science
+### I'm a ex-FAANG engineer studying Physiology and Computer Science major at McGill University, 
 - 👀 I’m a fourth-year McGill University student studying Physiology and Computer Science. 
 - 🌱 I’m planning on pursuing higher education.
-- 🔩 I'm currently working on a project at the Montreal Chinese Hospital.
+- 🔩 I'm currently working on my net worth.
 - 💞️ I’m looking to collaborate on anything! I'm always open to learning.
 - 📫 You can reach me on my LinkedIn profile
 
