@@ -1,6 +1,6 @@
 ## @Vermillion-Chen
 ---
-### I'm ab ex-FAANG engineer studying Physiology and Computer Science major at McGill University, 
+### I'm an ex-FAANG engineer studying Physiology and Computer Science major at McGill University, 
 - 👀 I’m a fourth-year McGill University student studying Physiology and Computer Science. 
 - 🌱 I’m planning on pursuing higher education.
 - 🔩 I'm currently working on my net worth.
